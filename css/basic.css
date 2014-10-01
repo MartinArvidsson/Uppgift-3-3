@@ -1,1 +1,32 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+#container
+{
+    width: 1200px;
+    background: #FFF2E0;
+    height: 960px;
+    font-family:"Verdana";
+    margin:auto;
+    border:solid 1px black;
+}
+#topbar
+{
+    
+}
+#menu
+{
+}
+#active
+{
+}
+#content
+{
+    
+}
+#subcontent
+{
+    
+}
+#bottomcontent
+{
+    
+}
