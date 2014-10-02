@@ -33,6 +33,7 @@ a[href="#maincontent"]
     height:35px;
     margin-top:-31px;
     padding-left:8px;
+    text-transform:capitalize;
 }
 #menu ul
 {
